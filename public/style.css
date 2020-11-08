@@ -1,0 +1,43 @@
+header {
+    text-align: center;
+    color:  #6e30f9;
+    font-family: sans-serif;
+    background-color: white;
+    margin: 0px;
+}
+
+fieldset {
+    background-color:  #6e30f9 ;
+    color: white;
+    line-height: 1.5pc;
+    border: hidden;
+}
+
+
+#mr {
+    width: 20px;
+}
+
+
+/* input {
+    text-align: justify;
+} */
+
+.fa-check-circle {
+    color:  #33cc33;
+    font-size: 140px;
+}
+
+.g {
+    color:  #33cc33;
+}
+
+.p {
+    color: purple;
+}
+.page {
+    text-align: center;
+    margin-top: 4cm;
+    font-size: 20pt;
+}
+
